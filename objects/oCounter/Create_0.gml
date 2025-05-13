@@ -1,0 +1,9 @@
+width= global.windowWidth;
+height = global.windowHeight;
+rectangleX = global.windowWidth * .15;
+rectangleY = global.windowHeight * .15;
+textX = rectangleX * .5;
+textY = rectangleY * .5;
+count = 10;
+first = false;
+timesPressed = 0;

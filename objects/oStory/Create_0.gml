@@ -1,0 +1,1 @@
+scGetTheText(2);

@@ -1,0 +1,10 @@
+width= global.windowWidth;
+height = global.windowHeight;
+rectangleX = global.windowWidth * .75;
+rectangleY = global.windowHeight * .15;
+textX = width * .875;
+textY = rectangleY * .45;
+days = 100 * 365;
+first = false;
+timesPressed = 0;
+inc = 2;
